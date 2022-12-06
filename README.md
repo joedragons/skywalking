@@ -9,11 +9,11 @@ microservices, cloud native and container-based architectures.
 in Cloud Native architecture.
 The core features are following.
 
-- Service, service instance, endpoint(URI) metrics analysis.
-  - Distributed tracing.
-  - Metrics collecting, analysis, and customization.
-  - Logging collecting and extracting metrics from them.
-  - Distributed tracing and context propagation.
+- Service, service instance, endpoint(URI) metrics analysis
+  - Distributed tracing
+  - Metrics collecting, analysis, and customization
+  - Logging collecting and extracting metrics from them
+  - Distributed tracing and context propagation
   - Collaboration across metrics, traces, and logs
 - Root cause analysis.
   - Profile the code on the runtime powered by in-process agent and ebpf profiler.
