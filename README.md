@@ -3,8 +3,7 @@ Apache SkyWalking
 
 <img src="http://skywalking.apache.org/assets/logo.svg" alt="Sky Walking logo" height="90px" align="right" />
 
-**SkyWalking**: an APM(application performance monitor) system, especially designed for
-microservices, cloud native and container-based architectures.
+**SkyWalking**: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based architectures.
 
 [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg?style=for-the-badge&label=Stars&logo=github)](https://github.com/apache/skywalking)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asfskywalking.svg?style=for-the-badge&label=Follow&logo=twitter)](https://twitter.com/AsfSkyWalking)
@@ -14,8 +13,7 @@ microservices, cloud native and container-based architectures.
 [![E2E Tests](https://github.com/apache/skywalking/workflows/E2E/badge.svg?branch=master)](https://github.com/apache/skywalking/actions?query=branch%3Amaster+event%3Aschedule+workflow%3AE2E)
 
 # Abstract
-**SkyWalking** is an open source APM system, including monitoring, tracing, diagnosing capabilities for distributed system
-in Cloud Native architecture.
+**SkyWalking** is an open source APM system, including monitoring, tracing, diagnosing capabilities for distributed system in Cloud Native architecture.
 The core features are following.
 
 - Service, service instance, endpoint(URI) metrics analysis.
